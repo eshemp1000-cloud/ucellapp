@@ -1,2 +1,0 @@
-# ucellapp
-UCell landing page
